@@ -35,5 +35,6 @@ You can also **chat with the AI** to ask questions about the video.
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/yourusername/youtube-summarizer.git
+git clone [https://github.com/bevivek12/yt_summarizer.git]
 cd youtube-summarizer
+
